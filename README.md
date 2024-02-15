@@ -1,5 +1,5 @@
-# diabetes_predictive_analysis
-Diabetes prediction dataset from Kaggle (url=https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset) was analyzed and visualized using various statistical methods and matplotlib.pyplot. 
+# Diabetes Predictive Analysis
+A diabetes prediction dataset from Kaggle (url=https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset) was analyzed and visualized using various statistical methods and matplotlib.pyplot. 
 
 The relationships of the variables of ID, gender, age, smoking history, BMI, HbA1c level, blood glucose level, diabetes diagnosis, hypertension, and heart disease were correlated and compared to see which factors influence the development of diabetes, hypertension, and heart disease, and to see which factors are most accurate at predicting diabetes.
 
